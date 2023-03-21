@@ -13,6 +13,11 @@ config_version=4
 config/name="Post- Punk- Game"
 config/icon="res://icon.png"
 
+[display]
+
+window/size/width=1920
+window/size/height=1080
+
 [gui]
 
 common/drop_mouse_on_gui_input_disabled=true
